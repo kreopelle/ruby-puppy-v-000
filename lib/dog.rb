@@ -10,4 +10,5 @@ class Dog
       puts puppy
     end
   end
+
 end
